@@ -6,7 +6,6 @@ pygame.display.set_caption("Smart Snakes")
 pygame.display.set_mode((1100, 650))
 
 pygame.init()
-pygame.mixer.music.load("music.mp3")
 pygame.mixer.music.play()
 pygame.display.update()
 
